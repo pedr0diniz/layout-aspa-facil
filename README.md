@@ -22,7 +22,7 @@ A boa notícia é que você não precisa editar o layout manualmente, pois ele j
 
 ## Como instalar?
 
-a) Você pode baixar o pacote compactado dead-apostrophe.rar na release https://github.com/pedr0diniz/layout-aspa-facil/releases/tag/v1.0, descompactar e simplesmente rodar o setup.exe
+a) Você pode baixar o pacote compactado dead-apostrophe.rar na [release](https://github.com/pedr0diniz/layout-aspa-facil/releases/tag/v1.0), descompactar e simplesmente rodar o setup.exe
 
 ou
 
