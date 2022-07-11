@@ -2,7 +2,7 @@ Esse repositório contém o layout para Teclados Internacionais com a aspa mais 
 
 Como instalar?
 
-a) Você pode baixar a release, descompactar e simplesmente rodar o setup.exe
+a) Você pode baixar a release https://github.com/pedr0diniz/layout-aspa-facil/releases/tag/v1.0, descompactar e simplesmente rodar o setup.exe
 
 ou
 
