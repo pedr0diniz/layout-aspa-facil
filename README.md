@@ -1,5 +1,7 @@
 Esse repositório contém o layout para Teclados Internacionais com a aspa mais fácil de utilizar :)
 
+## Contextualização
+
 Digitar aspas em um teclado internacional é um saco. Sim, um saco. Usando o layout "Estados Unidos (internacional)", temos um mesmo botão tanto para aspas quanto para acentos. Se eu quero digitar aspas, eu preciso apertar no botão [ ' ] do teclado duas vezes, e aí o que acontece? '' - o Windows nos devolve duas aspas simples.
 
 Por si só já é chato que isso aconteça, mas fica ainda pior quando digitamos isso dentro de uma IDE, e aí sempre temos que apertar duas vezes na tecla [ ' ], e, em seguida, mover o cursor para dentro delas para que possamos digitar o que queremos.
@@ -18,7 +20,7 @@ Baixei o programa, importei o layout "Estados Unidos (internacional)" e basicame
 
 A boa notícia é que você não precisa editar o layout manualmente, pois ele já está prontinho aqui!
 
-Como instalar?
+## Como instalar?
 
 a) Você pode baixar o pacote compactado dead-apostrophe.rar na release https://github.com/pedr0diniz/layout-aspa-facil/releases/tag/v1.0, descompactar e simplesmente rodar o setup.exe
 
